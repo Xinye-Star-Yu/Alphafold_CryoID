@@ -13,7 +13,7 @@ from urllib.parse import quote_plus
 GITHUB_USER = "Xinye-Star-Yu"
 REPO        = "Alphafold_CryoID"
 BRANCH      = "main"              # or "master"
-NB_PATH     = "notebooks/CollabFold_Custom.ipynb"
+NB_PATH     = "notebooks/AlphaFold2.ipynb"
 # --------------------------------------------------
 
 colab_url = (
