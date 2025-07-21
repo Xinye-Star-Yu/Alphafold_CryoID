@@ -1,18 +1,10 @@
-#!/usr/bin/env python3
-"""
-Open your custom ColabFold notebook in the user's browser.
-
-• Edit GITHUB_USER and REPO to match your GitHub.
-• Nothing else to install - this uses the default `webbrowser` module.
-"""
-
 import webbrowser
 from urllib.parse import quote_plus
 
 # --------------------------------------------------
 GITHUB_USER = "Xinye-Star-Yu"
 REPO        = "Alphafold_CryoID"
-BRANCH      = "main"              # or "master"
+BRANCH      = "main"
 NB_PATH     = "notebooks/AlphaFold2.ipynb"
 # --------------------------------------------------
 
