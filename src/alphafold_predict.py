@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Open your custom ColabFold notebook in the user’s browser.
+Open your custom ColabFold notebook in the user's browser.
 
 • Edit GITHUB_USER and REPO to match your GitHub.
-• Nothing else to install – this uses the default `webbrowser` module.
+• Nothing else to install - this uses the default `webbrowser` module.
 """
 
 import webbrowser
